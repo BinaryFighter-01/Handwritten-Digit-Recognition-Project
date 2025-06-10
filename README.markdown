@@ -49,5 +49,6 @@ python digit_recognition.py
 - Ensure sufficient disk space for saving the model file (~1MB).
 - The GUI is minimal and optimized for simplicity.
 
+ 
 ## License
 MIT License
