@@ -1,3 +1,4 @@
+# Import all required libraries 
 import tkinter as tk
 from PIL import Image, ImageDraw
 import numpy as np
